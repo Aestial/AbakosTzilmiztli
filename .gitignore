@@ -1,0 +1,8 @@
+# Output files
+*.EXE
+*.OBJ
+*.MAP
+
+# Operating system files
+*.DS_Store
+*.zip
