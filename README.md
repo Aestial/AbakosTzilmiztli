@@ -6,7 +6,7 @@ For further information please read [PDF manual](./AbakosTzilmiztli.pdf) (spanis
 Jaime Hernandez. FI, UNAM. 2010
 ___
 
-## Spanish version
+## About (Spanish)
 
 Abakos Tzilmiztli es un programa que simula el funcionamiento de una calculadora científica de punto flotante mediante comandos.
 
